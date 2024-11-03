@@ -1,1 +1,2 @@
-console.log("hello, yolo ");
+let name = "yolo";
+console.log("hello,  " + $name);
